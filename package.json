@@ -1,0 +1,27 @@
+{
+  "name": "creditoseimy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crissj14/CreditosEimy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crissj14/CreditosEimy/issues"
+  },
+  "homepage": "https://github.com/crissj14/CreditosEimy#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7"
+  }
+}
